@@ -1,0 +1,47 @@
+-----------------------------------------------------------------------------------------------
+-- BSS_FFM_INVENTARIOQUERYS
+-----------------------------------------------------------------------------------------------
+-- 02 DE FEBRERO DEL 2022 - MIERCOLES
+-----------------------------------------------------------------------------------------------
+-- EL OBJETIVO DE ESTE REPOSITORIO ES TENER UN CONTROL DE VERSIONES DE LAS QUERYS QUE SE USAN PARA:
+--	DESARROLLO 
+--	QA
+--	PRODUCCION
+--	SOPORTE
+--	RESPALDOS DE TABLAS
+--	SP
+-----------------------------------------------------------------------------------------------
+-- 
+-- 
+-- 
+-----------------------------------------------------------------------------------------------
+-- PREFIJOS
+-----------------------------------------------------------------------------------------------
+--	DE (desarrollo)
+--	QA (Calidad)
+--	PR (producción)
+--	SO (soporte)
+--	RE (respaldos)
+--	SP (procedimientos)
+-----------------------------------------------------------------------------------------------
+--
+--
+--
+-----------------------------------------------------------------------------------------------
+-- NOMENCLATURA PARA NOMBRE DE ARCHIVOS
+-----------------------------------------------------------------------------------------------
+--	PREFIJO + NOMBRE QUE DESCRIBA EL OBJETIVO + VERSION
+--
+--	"DE_Crear Datos Para Delivery_V1.SQL"
+--	"SO_01 validar horario de geocerca_V1.SQL"
+-----------------------------------------------------------------------------------------------
+--
+--
+--
+-----------------------------------------------------------------------------------------------
+-- BUENAS PRACTICAS
+-----------------------------------------------------------------------------------------------
+--	HACER USO DE LAS NOMENCLATURAS AL NOMBRAR LOS ARCHIVOS, CON LA FINALIDAD DE SU RAPIDA LOCALIZACION E INTERPRETACION.
+--	USAR NOMBRES QUE DESCRIBAN EL OBJETIVO DE LA QUERY
+--	EN EL CONTENIDO DEL ARCHIVO CREAR UN ENCABEZADO QUE DESCRIBA LA FECHA DE MODIFICACION, DESCRIPCION DE LA QUERY, Y LA BD A LA QUE SE DEBE CONECTAR
+--	ANTES DE EMPEZAR A TRABAJAR VERIFICAR QUE CUENTAS CON LA ULTIMA VERSION DE LOS ARCHIVOS, USANDO GIT PULL
